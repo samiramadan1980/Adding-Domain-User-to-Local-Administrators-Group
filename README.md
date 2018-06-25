@@ -5,7 +5,7 @@ You can add an exsting domain user account to be a member to the Local Administr
 
 
 ### REQUIREMENTS
-1.The VM me be joined to a domain and has access to the domain.
+1.The VM must be joined to a domain and has access to the domain.
 
 2.The VM has internet access.
 
