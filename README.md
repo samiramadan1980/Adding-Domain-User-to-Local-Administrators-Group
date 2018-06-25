@@ -1,4 +1,4 @@
-# Adding-Domain-User-to-Local-Administrators-Group
+# Adding-Local-Admin
 
 You can add an exsting dominan user account to the Local Administrator group on your VM.
 
