@@ -1,6 +1,6 @@
 # Adding-Local-Admin
 
-You can add an exsting domain user account to be a member to the Local Administrator group specified VM.
+You can add an exsting domain user account to be a member to the Local Administrator Group in a specified VM.
 
 
 
